@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import Loader from 'react-loader-spinner';
 
 import {fetchQuote} from '../store/actions/quoteActions';
-
+//
 const RandomQuote = props => {
 
     useEffect(() => {
